@@ -7,6 +7,10 @@ While Home Credit is currently using various statistical and machine learning me
 Here is the link for getting the data:
 https://www.kaggle.com/c/home-credit-default-risk
 
+## Notebooks Description
+
+This repository contains two notebooks. In 'Home Credit- Main data' notebook, we only used the 'application_train' data set. In the second notebook we used the information provided by 'burea' and 'burea_balance data' files.
+
 ## Acknowledgments
 
 https://www.kaggle.com
